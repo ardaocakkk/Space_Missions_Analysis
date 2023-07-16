@@ -1,7 +1,7 @@
 # Space_Missions_Analysis
 Analyse and Visualize The Space Race on Cold War Time
 
-You can find a solution about these questions:
+You can find an answer about these questions:
 Who launched the most missions in any given year?
 
 How has the cost of a space mission varied over time?
